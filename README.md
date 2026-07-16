@@ -29,6 +29,3 @@ This repository contains the Python projects completed during the Industrial Int
 **Department:** B.E. CSE (AI & ML)
 
 **University:** Anna University
-
-## Report
-[View Full Internship Report](PythonCLIUtilitySuite_Sumaya_USC_UCT.pdf)
