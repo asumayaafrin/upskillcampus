@@ -1,3 +1,7 @@
+# upskillcampus
+
+Python Industrial Internship Projects submitted for Upskill Campus and The IoT Academy.
+
 # Python Industrial Internship Projects
 
 This repository contains the Python projects completed during the Industrial Internship organized by Upskill Campus, The IoT Academy, and UniConverge Technologies Pvt. Ltd. (UCT).
@@ -29,3 +33,6 @@ This repository contains the Python projects completed during the Industrial Int
 **Department:** B.E. CSE (AI & ML)
 
 **University:** Anna University
+
+## Report
+[View Full Internship Report](PythonCLIUtilitySuite_Afrin_USC_UCT.pdf)
