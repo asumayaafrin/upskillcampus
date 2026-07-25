@@ -36,17 +36,13 @@ This repository contains the Data Science & Machine Learning projects completed 
 
 ## Results
 
-| Week | Project | Model Used | R2 Score |
+- Week 1 - Crop Production Prediction — Random Forest Regressor — R2 Score: 0.9625
 
-|------|---------|------------|----------|
+- Week 2 - Mining Quality Prediction — Random Forest Regressor — R2 Score: 0.7563
 
-| Week 1 | Crop Production Prediction | Random Forest Regressor | 0.9625 |
+- Week 3 - Smart City Traffic Forecasting — Model: TBD
 
-| Week 2 | Mining Quality Prediction | Random Forest Regressor | 0.7563 |
-
-| Week 3 | Smart City Traffic Forecasting | TBD | TBD |
-
-| Week 4 | Turbofan Engine RUL Prediction | TBD | TBD |
+- Week 4 - Turbofan Engine RUL Prediction — Model: TBD
 
 ## Student Details
 
