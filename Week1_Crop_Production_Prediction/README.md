@@ -6,5 +6,5 @@
    R2 Score: 0.9625
    
    ## Files
-   - Week1_Crop_Production.ipynb - Full code notebook
+   - Week1_Crop_Production_prediction.ipynb - Full code notebook
    - produce.csv - Dataset
