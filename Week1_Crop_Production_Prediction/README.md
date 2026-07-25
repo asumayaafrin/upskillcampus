@@ -1,6 +1,6 @@
 # upskillcampus
 
-Python Industrial Internship Projects submitted for Upskill Campus and The IoT Academy.
+Data Science and Machine Learning Industrial Internship Projects submitted for Upskill Campus and The IoT Academy.
 
 # Data Science & Machine Learning Internship Projects
 
