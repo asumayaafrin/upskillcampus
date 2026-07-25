@@ -1,3 +1,7 @@
+# upskillcampus
+
+Data Science and Machine Learning Industrial Internship Projects submitted for Upskill Campus and The IoT Academy.
+
 # Data Science & Machine Learning Internship Projects
 
 This repository contains the Data Science & Machine Learning projects completed during the Industrial Internship organized by Upskill Campus, The IoT Academy, and UniConverge Technologies Pvt. Ltd. (UCT).
